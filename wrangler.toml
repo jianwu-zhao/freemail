@@ -11,6 +11,10 @@ compatibility_date = "2024-01-01"
 # 登录会话过期时间（单位：天，默认7天）
 # 环境变量
 [vars]
+D1_ENABLED = "false"
+r2_ENABLED ="false"
+TEMP_MAIL_DB = "disabled"
+MAIL_EML = "disabled"
 # FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"2141083706@qq.com"}]"
 
 
